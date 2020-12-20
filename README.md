@@ -13,6 +13,4 @@ The program was made by student of Sumy State University
 
 ~Feedback
 
-tel.: +38 096 423 43 54
-
 e-mail: papizhuk.d@ms.sumdu.edu.ua
